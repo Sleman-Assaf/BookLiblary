@@ -1,0 +1,292 @@
+.SocialIcons a{
+    text-decoration: none !important;
+    color: #555 !important;
+}
+.UnderLineBorder{
+    border-bottom: 1px solid #E0E0E0;
+}
+.widthCoustome{
+    width: 95%;
+    margin: 0px auto;
+}
+.menuLi li{
+margin-left: 20px;
+}
+.headerBg_Color{
+    background-color:#F3F2EC;
+}
+.servicesBg_color{
+   background-color:  #EDEBE4;
+}
+.active-home{
+    color: #daa556 !important;
+}
+.menuLi li{
+    width: 110px;
+}
+.menuLi a{
+font-size: 16px;
+    text-transform: uppercase;
+     
+        letter-spacing: 0.12em;
+        font-family: "Open Sans", serif;
+            font-optical-sizing: auto;
+           
+}
+.dropdown-menu{
+    background-color:#ddd !important ;
+    border-radius: 0px;
+    border: none;
+}
+.dropdown-menu li a:hover{
+    background-color: #ddd !important;
+}
+.dropdown-menu li {
+padding: 10px 0px;
+}
+ .socialNav.navbar-nav{
+    display: flex !important;
+    flex-direction: row !important;
+}
+.paragrah_Header_Color{
+    color: #757575 !important;
+    font-family: "Raleway", serif;
+}
+.headerWidth{
+   
+    letter-spacing: 0.03em;
+}
+.font_HeaderSize
+    
+{
+    font-size: 72px;
+    font-family: "Prata", serif;
+    
+}
+
+.btn-primary{
+    background-color: transparent !important;
+    border: 1px #C5A992 solid !important;
+    text-transform: uppercase;
+    border-radius: 0px;
+    padding: 7px 30px;
+    color: #C5A992 !important;
+    font-weight: 600;
+    
+}
+
+.header-photo img{
+    width: 395px;
+}
+
+
+
+.carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='rgb(140 140 140)' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+}
+
+.carousel-control-prev-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='rgb(140 140 140)' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+}
+.bookParahraph{
+        color: #afafaf;
+            text-transform: uppercase;
+            font-family: "Raleway", serif;
+}
+.FeaturedBookHeader{
+font-family: "Prata", serif;
+font-size: 48px;
+}
+
+.booksCart{
+font-family: "Prata", serif;
+font-size: 22px;
+color: #74642F;
+font-weight: 600;
+}
+.bookPCart{
+    color: #757575;
+}
+.greenColor{
+    color: #74642F;
+font-weight: 600;
+}
+.cardBox{
+    width: 265px;
+    padding: 40px 30px;
+    background-color: #efeee8;
+ border:  1px solid #EAE8DF
+}
+.cardBox img{
+width: 203px;
+}
+.line{
+
+    border-bottom:1px solid #E0E0E0;
+}
+.allProduct a{
+    color: black;
+    font-weight: 700;
+    text-decoration: underline;
+
+}
+.SellingText{
+font-family: "Prata", serif;
+    font-size: 48px;
+    font-weight: 600;
+   
+       
+}
+.aurthorP
+{
+    color: #757575;
+
+}
+
+.SellingTextP {
+    font-family: "Prata", serif;
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.price{
+    font-family: "Raleway", serif;
+    color: #74642F;
+    font-size: 24px;
+    font-weight: 600;
+}
+.menueGen a{
+    text-decoration: none;
+    font-family: "Raleway", serif;
+    font-weight: 600;
+    color: #000;
+}
+.avticeMenu{
+   border-bottom: 3px solid #62552c;
+}
+.quoteHeader
+{
+font-family: "Prata", serif;
+font-weight: 600
+;
+font-size: 48px;
+
+}
+.pQoute{
+    color: #757575;
+    font-weight: "Raleway",
+        serif; ;
+        font-size: 24px;
+}
+.middle{
+    color: #62552c;
+    font-size: 24px ;
+    font-weight: 600;
+}
+.subH{
+    font-family: "Prata", serif;
+        font-weight: 600;
+        font-size: 48px;
+}
+.mb-7{
+    margin-top: -20px;
+}
+.subp{
+    color: #757575;
+
+}
+.inputEmail input{
+    border: none;
+    padding: 10px;
+    background-color: transparent;
+
+}
+.messageIcon{
+    font-weight: 600;
+}
+.inputEmail{
+    border-bottom: 1px solid #000000 ;
+}
+.pe-xl-5{
+    padding-right: 250px !important;
+}
+.pe-lg-5{
+    padding-right: 100px !important;
+}
+
+.cardContent{
+    font-family: "Prata", serif;
+    font-size: 20px;
+    
+}
+.cardContentP{
+    font-size: 16px;
+    margin: 30px 0px;
+}
+.articalText{
+padding-bottom: 30px;
+border-bottom: 1px solid gray;
+}
+.upper{
+    text-transform: uppercase;
+}
+.text-secandry{
+    color: #555;
+    font-size: 16px;
+    font-weight: "Raleway",
+
+}
+.appHeader{
+    font-family: "Prata", serif;
+        font-size: 48px;
+        font-weight: 600;
+}
+.appP{
+    color: #757575;
+}
+.footerUl a
+{
+text-decoration: none;
+color: #000;
+
+}
+.footerUl {
+    list-style-type: none;
+}
+.footerUl li{
+    line-height: 2;
+    margin-bottom: 5px;
+}
+.pLogo{
+    line-height: 2;
+}
+.copyRight{
+    font-size: 16px;
+    font-family: "Prata", serif;
+}
+
+.btn-primary:hover{
+background-color: #9a8c8c !important;
+color: #fff !important;
+transition: 0.3s color ease-out !important;
+}
+.menueGen a:hover{
+        border-bottom: 3px solid #62552c;
+       
+}
+.nav-item a:hover{
+    color: #daa556 !important;
+    transition: 0.3s color ease-out !important;
+}
+.SocialIcons a:hover{
+     transition: 0.3s color ease-out !important;
+   color:  #daa556 !important;
+}
+.inputEmail input{
+outline: none;
+}
+
+.footerUl a:hover{
+transition: 0.3s color ease-out !important;
+    color: #daa556 !important;
+}
